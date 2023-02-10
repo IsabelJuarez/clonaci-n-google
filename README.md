@@ -28,4 +28,4 @@ Aprende a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
 
-Aquí puedes visualizar mi proyecto terminado: .[Clonación Google] https://resplandeciente-moxie-7af975.netlify.app
+Aquí puedes visualizar mi proyecto terminado: .[Clonación Google](https://resplandeciente-moxie-7af975.netlify.app)
