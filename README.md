@@ -1,6 +1,6 @@
 # Clonación de la Interfaz de Google con HTML y CSS
 
-##**ÍNDICE**
+#**ÍNDICE**
 
 * [1. Intro](#)
 * [2. Que construí](#)
